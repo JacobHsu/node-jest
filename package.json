@@ -19,6 +19,7 @@
     "sass": "^1.66.1",
     "swagger-autogen": "^2.23.7",
     "swagger-ui-express": "^5.0.1",
+    "uglify-js": "^3.19.3",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
