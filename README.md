@@ -7,6 +7,8 @@ swagger-autogen [docs](https://swagger-autogen.github.io/docs/getting-started/qu
 `npm install -g nodemon` `nodemon`
 [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)  
 
+http://localhost:3000/api-docs/#/
+
 ## References
 
 [為專案中加入 Jest](https://ithelp.ithome.com.tw/articles/10321557)
