@@ -11,4 +11,6 @@ http://localhost:3000/api-docs/#/
 
 ## References
 
-[為專案中加入 Jest](https://ithelp.ithome.com.tw/articles/10321557)
+[為專案中加入 Jest](https://ithelp.ithome.com.tw/articles/10321557)  
+[Node.js 文件產生器 Swagger](https://ithelp.ithome.com.tw/articles/10321562)  
+[Zeabur](https://zeabur.com/zh-TW) - Deploy Painlessly, Scale Infinitely  
